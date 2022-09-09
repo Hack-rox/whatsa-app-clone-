@@ -4,7 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.334375" />
+        <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/activity_chatdetail.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/activity_home.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/fragment_chats.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/sample_reciver.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/sample_sender.xml" value="0.18" />
+        <entry key="..\:/Users/Admin/Downloads/WhatsAppClone--master/app/src/main/res/layout/sample_show_user.xml" value="0.25" />
         <entry key="app/src/main/res/drawable/bg_receiver.xml" value="0.309" />
         <entry key="app/src/main/res/drawable/bg_sender.xml" value="0.309" />
         <entry key="app/src/main/res/drawable/button.xml" value="0.309" />
